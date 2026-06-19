@@ -1,0 +1,2 @@
+https://en.wikipedia.org/wiki/MapReduce
+https://en.wikipedia.org/wiki/Apache_Hadoop
